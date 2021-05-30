@@ -4,4 +4,5 @@
 let twoDimensionalArray = [["a", "b", "c"], ["d", "e", "f"], ["g", "h", "i"]];
 
 console.log(twoDimensionalArray);
-console.log(twoDimensionalArray[0][2]);
+console.log(twoDimensionalArray[0][2]); //c
+console.log(twoDimensionalArray[1][1]) //e
